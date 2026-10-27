@@ -11,6 +11,8 @@
 
 它叫接口审计。一根线，叫一个**接口**；那根最粗、拔了会连带别的，叫**母口**。
 
+> **GitHub 访问不顺的话** → [打开镜像页](https://interface-audit.app.workbuddy.host/?sharecode=UYGLLIOE7A)。收录了开头、三步法、两段示例、操作判据与检索索引；判据全文（5 万字）仍需回本仓库 `reference/01-律目全谱.md`。
+
 ---
 
 ## 它能回答的三类问题
