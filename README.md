@@ -1,4 +1,4 @@
-# 接口审计 · Interface Audit
+# 人生决策指南 · Life Decision Guide
 
 有人在一家公司干了八年，工资涨得不多，老板脾气还差，但他就是不走。
 你问他为什么不走，他说「习惯了」。
@@ -9,7 +9,7 @@
 
 **这套方法只做一件事：把这些线列出来，数清楚，算出每根拔掉要付多少。**
 
-它叫接口审计。一根线，叫一个**接口**；那根最粗、拔了会连带别的，叫**母口**。
+它叫人生决策指南。一根线，叫一个**接口**；那根最粗、拔了会连带别的，叫**母口**。
 
 而这几根线连起来，要回答的是三个更大一点的问题：
 
@@ -146,10 +146,12 @@
 **Claude Code / Codex**：把 `SKILL.md` 放进 skills 目录即可。
 
 ```
-your-project/.claude/skills/interface-audit/
+your-project/.claude/skills/life-decision-guide/
 ├── SKILL.md
 └── reference/
 ```
+
+**目录名必须与 `SKILL.md` 里的 `name` 一致**（`life-decision-guide`）——中文名是给人看的标题，`name` 字段只接受小写字母、数字与连字符，写成中文会装不上。
 
 **直接读**：`reference/00-索引.md` 是按问题排的检索表，`01-律目全谱.md` 是全部判据正文。
 
@@ -158,7 +160,7 @@ your-project/.claude/skills/interface-audit/
 ## 目录
 
 ```
-interface-audit/
+life-decision-guide/
 ├── SKILL.md                  AI 技能入口（三步法 + 检索协议 + 输出格式）
 ├── README.md                 本文件
 ├── LICENSE
