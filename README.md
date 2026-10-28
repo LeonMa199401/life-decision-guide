@@ -21,7 +21,7 @@
 - **你是谁的耗材**：看你付出的三笔成本（接入、维持、拔除）最后结算在谁的账上。**只享权利不担责任的，是收租方；只担责任不享权利的，是耗材。**
 - **你该如何破局**：先算清插拔成本，再谈走不走。**没算过账的「破局」，多数只是换了个地方当耗材。**
 
-> **GitHub 访问不顺的话** → [打开镜像页](https://interface-audit.app.workbuddy.host/?sharecode=UYGLLIOE7A)。收录了开头、三步法、两段示例、操作判据与检索索引；判据全文（5 万字）仍需回本仓库 `reference/01-律目全谱.md`。
+> **GitHub 访问不顺的话** → [打开镜像页](https://life-decision-guide-59628.app.workbuddy.host/?sharecode=V7XBZUB5MQ)。收录了开头、三步法、两段示例、操作判据与检索索引；判据全文（5 万字）仍需回本仓库 `reference/01-律目全谱.md`。
 
 ---
 
