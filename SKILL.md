@@ -1,6 +1,20 @@
 ---
 name: life-decision-guide
+display_name: 人生决策指南
+display_name_en: Life Decision Guide
 description: 用「接口清单 → 母口定位 → 插拔成本」三步，把社会现象、制度变迁、组织行为拆成可核的结构分析。适用于解释「为什么改不动」「为什么人拔不掉」「为什么换了一批人还是一样」，也适用于「我该不该走」「这份工作／这段关系要不要断」这类人生去留判断。给出判据，不给情绪。
+description_zh: 把「离不开」拆成一张接口清单——三步定位你身上的社会关系接口、找到握着母口的那一根、算出拔掉要付多少。
+description_en: "A three-step structural method for why people and institutions cannot change: list the interfaces, locate the dominant one, price the cost of exit."
+version: 1.0.0
+author: 一坡
+examples_zh:
+  - 我在这个单位待了八年，明知道没前途，为什么就是走不了
+  - 为什么换了一任领导，公司的做法一点没变
+  - 这个平台抽成越来越高，商家为什么不集体离开
+examples_en:
+  - Why can't I leave a job I know is a dead end?
+  - Why does nothing change after the leadership is replaced?
+  - Why don't merchants leave a platform that keeps raising its cut?
 ---
 
 # 人生决策指南
@@ -70,10 +84,10 @@ description: 用「接口清单 → 母口定位 → 插拔成本」三步，把
 
 ## 检索协议
 
-**不要通读 `reference/`。**按问题抽 2—4 个关键词，检索 `reference/00-索引.md`，再按指引进对应文件。
+**不要通读 `references/`。**按问题抽 2—4 个关键词，检索 `references/00-索引.md`，再按指引进对应文件。
 
 ```
-reference/
+references/
 ├── 00-索引.md           全谱系速查（先查这里）
 ├── 01-律目全谱.md        原生六律 + 他者化 + 衍生六律 + 增量律（主件）
 ├── 02-操作判据.md        三问 / 五问 / 五种误读
@@ -97,7 +111,7 @@ reference/
 2. **母口判定必须过三条检验**，凭印象指认母口是本框架最常见的误用。
 3. **不得由结构分析直接推出行动建议。** 结构说明约束在哪，不说明该做什么——后者需要价值判断，本框架不提供。
 4. **不得用于给人贴标签。** 「他被锁死了」是描述接口状态，不是描述这个人的品性。
-5. **判据有适用边界。** 每条律在 `reference/` 里都写了失效条件，**引用时连同边界一起引**；只引结论不引边界，是本框架被误用的主要来源。
+5. **判据有适用边界。** 每条律在 `references/` 里都写了失效条件，**引用时连同边界一起引**；只引结论不引边界，是本框架被误用的主要来源。
 
 ## 一个最小示例
 
