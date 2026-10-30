@@ -31,7 +31,7 @@
 
 ## 想试自己的
 
-去 [Discussions](https://github.com/LeonMa199401/life-decision-guide/discussions/1) 把处境贴上来，按三问走一遍。
+去 [Issues](https://gitee.com/leonma19940126/life-decision-guide/issues/new) 把处境贴上来，按三问走一遍。
 
 ## 关于示例里的判据引用
 

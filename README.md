@@ -40,7 +40,7 @@
 | 想直接装进 AI 用 | [SKILL.md](SKILL.md)——技能入口，三步法 + 检索协议 + 输出格式 |
 | 不读中文，只想判断值不值得看 | [README.en.md](README.en.md)——一页英文摘要 |
 
-> **国内访问** → [Gitee 镜像](https://gitee.com/leonma19940126/life-decision-guide)（内容同步，克隆更快；GitHub 原址在[这里](https://github.com/LeonMa199401/life-decision-guide)）。
+> **这个仓库以 Gitee 为主站。** GitHub 镜像（`github.com/LeonMa199401/life-decision-guide`）因账号审核中，暂时无法访问；恢复后会同步，两个地址内容一致。
 
 ---
 
