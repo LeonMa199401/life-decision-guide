@@ -120,4 +120,4 @@ The directory name must match the `name` field in `SKILL.md` (`life-decision-gui
 
 Why no derivatives: every criterion carries a failure condition. Allow rewriting and you will get versions with the boundary clipped off and only the conclusion kept — and those sentences turn into geographic determinism, blood determinism, or fatalism. That is not this framework. It is the opposite of it.
 
-**Author**: 一坡 (Yipo) · **Version**: v1.1.1 · **Repository**: [Gitee](https://gitee.com/leonma19940126/life-decision-guide)
+**Author**: 一坡 (Yipo) · **Version**: v1.1.2 · **Repository**: [Gitee](https://gitee.com/leonma19940126/life-decision-guide)
