@@ -1,5 +1,10 @@
 # 人生决策指南 · Life Decision Guide
 
+[![Gitee star](https://gitee.com/leonma19940126/life-decision-guide/badge/star.svg?theme=dark)](https://gitee.com/leonma19940126/life-decision-guide/stargazers)
+[![Gitee fork](https://gitee.com/leonma19940126/life-decision-guide/badge/fork.svg?theme=dark)](https://gitee.com/leonma19940126/life-decision-guide/members)
+[![license](https://img.shields.io/badge/license-CC%20BY--NC--ND%204.0-lightgrey)](LICENSE)
+[![72 判据](https://img.shields.io/badge/%E5%88%A4%E6%8D%AE-72%20%E6%9D%A1-blue)](references/01-律目全谱.md)
+
 有人在一家公司干了八年，工资涨得不多，老板脾气还差，但他就是不走。
 你问他为什么不走，他说「习惯了」。
 
