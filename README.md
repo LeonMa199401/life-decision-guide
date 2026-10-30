@@ -30,6 +30,8 @@
 
 > **国内访问** → [Gitee 镜像](https://gitee.com/leonma19940126/life-decision-guide)（内容同步，克隆更快；GitHub 原址在[这里](https://github.com/LeonMa199401/life-decision-guide)）。
 
+> **想系统看** → [Wiki](https://gitee.com/leonma19940126/life-decision-guide/wikis/Home)：六个页面，快速开始／五个关键词／判据导读／示例怎么读／常见问题／贡献与反馈。**比 README 更细，但不用全读——按需跳。**
+
 > **只想先看一眼** → [打开镜像页](https://life-decision-guide-59628.app.workbuddy.host/?sharecode=V7XBZUB5MQ)。收录了开头、三步法、两段示例、操作判据与检索索引；判据全文（5 万字）仍需回本仓库 `references/01-律目全谱.md`。
 
 > **只想先看一眼** → [`金句_72条.md`](金句_72条.md)：72 条判据各压成一句能单独站住的话，其中 12 条另附一段「为什么站得住」。不用读完 5 万字，翻这一页就够。
