@@ -1,3 +1,5 @@
+![人生决策指南](assets/banner.png)
+
 # 人生决策指南 · Life Decision Guide
 
 [![Gitee star](https://gitee.com/leonma19940126/life-decision-guide/badge/star.svg?theme=dark)](https://gitee.com/leonma19940126/life-decision-guide/stargazers)
@@ -28,13 +30,16 @@
 - **你是谁的耗材**：看你付出的三笔成本（接入、维持、拔除）最后结算在谁的账上。**只享权利不担责任的，是收租方；只担责任不享权利的，是耗材。**
 - **你该如何破局**：先算清插拔成本，再谈走不走。**没算过账的「破局」，多数只是换了个地方当耗材。**
 
+**按你现在的状态挑一条走：**
+
+| 你现在的状态 | 去哪 |
+|---|---|
+| 只想判断这东西值不值得看 | [`金句_72条.md`](金句_72条.md)——72 条各压一句，其中 12 条另附「为什么站得住」。**不用读 5 万字。** |
+| 想在浏览器里先翻两页 | [镜像页](https://life-decision-guide-59628.app.workbuddy.host/?sharecode=V7XBZUB5MQ)——收缩了开头、三步法、两段示例与检索索引 |
+| 想系统读一遍 | [Wiki 六页](https://gitee.com/leonma19940126/life-decision-guide/wikis/Home)——快速开始／五个关键词／判据导读／示例怎么读／常见问题／贡献与反馈 |
+| 想直接装进 AI 用 | [SKILL.md](SKILL.md)——技能入口，三步法 + 检索协议 + 输出格式 |
+
 > **国内访问** → [Gitee 镜像](https://gitee.com/leonma19940126/life-decision-guide)（内容同步，克隆更快；GitHub 原址在[这里](https://github.com/LeonMa199401/life-decision-guide)）。
-
-> **想系统看** → [Wiki](https://gitee.com/leonma19940126/life-decision-guide/wikis/Home)：六个页面，快速开始／五个关键词／判据导读／示例怎么读／常见问题／贡献与反馈。**比 README 更细，但不用全读——按需跳。**
-
-> **只想先看一眼** → [打开镜像页](https://life-decision-guide-59628.app.workbuddy.host/?sharecode=V7XBZUB5MQ)。收录了开头、三步法、两段示例、操作判据与检索索引；判据全文（5 万字）仍需回本仓库 `references/01-律目全谱.md`。
-
-> **只想先看一眼** → [`金句_72条.md`](金句_72条.md)：72 条判据各压成一句能单独站住的话，其中 12 条另附一段「为什么站得住」。不用读完 5 万字，翻这一页就够。
 
 ---
 
@@ -183,29 +188,39 @@ your-project/.claude/skills/life-decision-guide/
 
 **只要一张纸**：`references/02-操作判据.md` 里有三问、五问、六种误读，五分钟看完，**大多数场合这一页就够用**。
 
-## 目录
+## 文件结构
 
 ```
 life-decision-guide/
 ├── SKILL.md                  AI 技能入口（三步法 + 检索协议 + 输出格式）
 ├── README.md                 本文件
+├── FAQ.md                    12 条常见质疑的正面回答（是不是成功学、为什么不给建议……）
+├── CONTRIBUTING.md           接受什么／不接受什么／Issue 该怎么提
+├── CHANGELOG.md              版本变更记录
 ├── LICENSE                   CC BY-NC-ND 4.0
 ├── 金句_72条.md               72 条各压一句，12 条另附「为什么站得住」
-├── .gitattributes            强制 LF 行尾，防跨平台漂移
+├── assets/
+│   ├── banner.png            顶部横幅
+│   └── icon.png              项目标识
+├── .gitee/
+│   ├── ISSUE_TEMPLATE.md     Issue 模板：判据有误／边界问题／示例问题／表述问题
+│   └── PULL_REQUEST_TEMPLATE.md
 ├── examples/                 五份走通的示例：两份拆别人，三份拆自己
+│   ├── README.md             这五份怎么对照着读
 │   ├── 01-公司为什么留不住能人.md
 │   ├── 02-政策为什么落地走样.md
 │   ├── 03-我该不该辞职.md
 │   ├── 04-要不要回老家.md
 │   └── 05-该不该去考公.md
-└── references/
-    ├── 00-索引.md            按问题查判据（先看这里）
-    ├── 01-律目全谱.md        72 条判据正文（5 万字，开篇为「问题的由来」）
-    ├── 02-操作判据.md        三问 / 五问 / 六种误读
-    └── 07-体系层七律.md      身体母口、绕开、竞速拔线、母口自爆等七条
+├── references/
+│   ├── 00-索引.md            按问题查判据（先看这里）
+│   ├── 01-律目全谱.md        72 条判据正文（5 万字，开篇为「问题的由来」）
+│   ├── 02-操作判据.md        三问 / 五问 / 六种误读
+│   └── 07-体系层七律.md      身体母口、绕开、竞速拔线、母口自爆等七条
+└── .gitattributes            强制 LF 行尾，防跨平台漂移
 ```
 
-共 15 个文件。`references/` 编号为 00／01／02／07，跳号是沿用原卷序，**不是漏传**。
+共 23 个文件。`references/` 编号为 00／01／02／07，跳号是沿用原卷序，**不是漏传**。
 
 **读不动 5 万字，就先看 `examples/`。** 五份示例都是完整走通的（含接口清单、母口三检验、插拔成本、反驳条件），每份约 1,500—2,000 字。**里面的数字全是编的，只保证结构对得上**——你要用自己的数套一遍。
 
@@ -250,5 +265,5 @@ life-decision-guide/
 ---
 
 **作者**：一坡
-**版本**：v1.0.0（2026-10-30）
+**版本**：v1.1.1（2026-10-30）
 **建仓**：2026-10-27
