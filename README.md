@@ -23,7 +23,9 @@
 - **你是谁的耗材**：看你付出的三笔成本（接入、维持、拔除）最后结算在谁的账上。**只享权利不担责任的，是收租方；只担责任不享权利的，是耗材。**
 - **你该如何破局**：先算清插拔成本，再谈走不走。**没算过账的「破局」，多数只是换了个地方当耗材。**
 
-> **GitHub 访问不顺的话** → [打开镜像页](https://life-decision-guide-59628.app.workbuddy.host/?sharecode=V7XBZUB5MQ)。收录了开头、三步法、两段示例、操作判据与检索索引；判据全文（5 万字）仍需回本仓库 `references/01-律目全谱.md`。
+> **国内访问** → [Gitee 镜像](https://gitee.com/leonma19940126/life-decision-guide)（内容同步，克隆更快；GitHub 原址在[这里](https://github.com/LeonMa199401/life-decision-guide)）。
+
+> **只想先看一眼** → [打开镜像页](https://life-decision-guide-59628.app.workbuddy.host/?sharecode=V7XBZUB5MQ)。收录了开头、三步法、两段示例、操作判据与检索索引；判据全文（5 万字）仍需回本仓库 `references/01-律目全谱.md`。
 
 > **只想先看一眼** → [`金句_72条.md`](金句_72条.md)：72 条判据各压成一句能单独站住的话，其中 12 条另附一段「为什么站得住」。不用读完 5 万字，翻这一页就够。
 
