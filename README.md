@@ -38,6 +38,7 @@
 | 想在浏览器里先翻两页 | [镜像页](https://life-decision-guide-59628.app.workbuddy.host/?sharecode=V7XBZUB5MQ)——收缩了开头、三步法、两段示例与检索索引 |
 | 想系统读一遍 | [Wiki 六页](https://gitee.com/leonma19940126/life-decision-guide/wikis/Home)——快速开始／五个关键词／判据导读／示例怎么读／常见问题／贡献与反馈 |
 | 想直接装进 AI 用 | [SKILL.md](SKILL.md)——技能入口，三步法 + 检索协议 + 输出格式 |
+| 不读中文，只想判断值不值得看 | [README.en.md](README.en.md)——一页英文摘要 |
 
 > **国内访问** → [Gitee 镜像](https://gitee.com/leonma19940126/life-decision-guide)（内容同步，克隆更快；GitHub 原址在[这里](https://github.com/LeonMa199401/life-decision-guide)）。
 
@@ -206,7 +207,7 @@ your-project/.claude/skills/life-decision-guide/
 life-decision-guide/
 ├── SKILL.md                  AI 技能入口（三步法 + 检索协议 + 输出格式）
 ├── README.md                 本文件（中文）
-├── README.en.md              English summary（英文摘要，Gitee 会在页面顶部出语言切换）
+├── README.en.md              English summary（一页英文摘要，供不读中文的人判断值不值得翻译）
 ├── FAQ.md                    12 条常见质疑的正面回答（是不是成功学、为什么不给建议……）
 ├── CONTRIBUTING.md           接受什么／不接受什么／Issue 该怎么提
 ├── CHANGELOG.md              版本变更记录
